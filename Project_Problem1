@@ -1,1 +1,31 @@
-Particle Accelerators
+Electromagnetism of Particle Accelerators
+
+Particle accelerators are very interesting to me, so I would like to do my
+project on the electromagnetic principles used to make particle accelerators
+work. In accelerators, charged particles are accelerated using electric fields
+and steered using magnetic fields.
+
+In a circular accelerator, such as a cyclotron or synchrotron, there are
+electric fields along the path of the particles. These fields can change from
+negative to positive or vice versa in such a way that the particles are always
+pulled towards a field of opposite charge. Dipole and quadrupole magnets are
+used to steer and focus the beam of charged particles. Quadrupole magnets focus
+the beam of particles to keep them together, while dipole magnets steer the
+particles in a circle around the accelerator.
+
+
+References:
+
+1. Holzer, B.J. “Introduction to Particle Accelerators and their Limitations”
+ May 2017. CERN. 10.5170/CERN-2016-001.29
+
+ 2. R.J. Van de Graaff, J.G. Trump and W.W. Buechner. 1948. "Electrostatic
+ Generators for the Acceleration of Charged Particles." Reports on Progress in
+ Physics, 11: 1-18.
+
+ 3. V. Veksler. 1945. "A New Method of Acceleration of Relativistic Particles."
+ Journal of Physics, U.S.S.R., 9: 153-158.
+
+ 4. E.D. Courant, M.S. Livingston, and H.S. Snyder. 1952. "The Strong Focusing
+ Synchrotron - A New High Energy Accelerator." The Physical Review, 88:
+ 1190-1196.
