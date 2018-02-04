@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Ruth, great work diving into the mathematical models of the magnets responsbile for focusing the particles. I think you've done a pretty good job of presenting those models. For your synthesis this week, you will need to bring those mathematical models together with the review articles to describe a coherent narrative for what you have learned so far. I think one thing that will be incredibly important in the synthesis will be a figures of the setup, which then relate to the overall idea with the mathmematical models that you are going to present. I'm sure there's some you can borrow from the papers you've read (with attribution, of course) to help you synthesize across the 4 papers you have read so far. Great job!
+
+* Score: 20/20
+
 ## Assignment 2
 
 Ruth, I'm glad that you read the Holzer article and followed it up with the Courant one. They both seem to have helped alot in focusing your paper on the magnetic fields that focus the particles in the accelerator. That is certainly a narrowly enough scoped topic for a paper if that's where you are thinking about spending your research effort. So, I'd encourage you, if that's what you want to aim for, to read more about the underlying physics of these quadupole magnets and how they relate to the focusing of the beams. In the next week, I'll be looking for a more detailed dive into that topic and also where you begin to bring out the mathematical models that describe how all this works. It's important to summarize what you are learning, but it is also important for this paper to describe how the underlying physics gets modeled. Great work!
