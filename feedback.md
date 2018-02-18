@@ -3,9 +3,16 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+
+## Assignment 5
+
+Ruth, I think you have handled the technical issues here, I can follow the derivations now in the notebook version. So, I think the thing that is missing from all of this is some overarching narrative (what are you presenting and why? And when do you know you are done presenting?) Your writeup starts like a paper, with some initial motivation for what happens in these regions where quadrupole magnets are, but it doesn't say somethng like, "and this is what I present in this paper." I think if you work on that this week and carry that idea through the whole paper, it will be clear how to wrp it up and you will have a complete narrative to present. It might also suggest a title for the paper.
+
+* Score: 16/20
+
 ## Assignment 4
 
-Ruth, you have done an excellent job preparing your paper so far. I read the markdown version on github, so I could see the pictures. If you can create a PDF version with the equations as you do your next update this week, I'd appreciate it. I got the gist of it from the writeup on github, but seeing it all together is important -- especially as you write the paper. You can use pandoc to convert your markdown to LaTeX if you are looking for something to do it automatically. Going forward, I think you could expand your discussing of the last figure to presented on the phase space of the particle motion. Discussin that in some detail and describing how it connects to the experimential work that people do with these magnets would give you a fairly complete narrative for your paper. Great work!
+Ruth, you have done an excellent job preparing your paper so far. I read the markdown version on github, so I could see the pictures. If you can create a PDF version with the equations as you do your next update this week, I'd appreciate it. I got the gist of it from the writeup on github, but seeing it all together is important -- especially as you write the paper. You can use pandoc to convert your markdown to LaTeX if you are looking for something to do it automatically. Going forward, I think you could expand your discussing of the last figure to presented on the phase space of the particle motion. Discussing that in some detail and describing how it connects to the experimential work that people do with these magnets would give you a fairly complete narrative for your paper. Great work!
 
 * Score: 20/20
 
