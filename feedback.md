@@ -3,10 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Ruth, I think you have done a great job with this most recent update. You have a clearly organized paper, which addresses all the aspects you discuss in your abstract (which I very much appreciated). I think all you have ahead of you this week is a bit of grammatical cleanup and light editing. One thing to consider is how precisely to turn this in. The notebook doesn't display all the images, but the older HTML file does. I would prefer a PDF that has some paper style to it, but the animated gifs you are using will not display properly (and they seem to add to the paper well). So think about the final version that communicates all the pieces that you want. Great work these last 6 weeks!
+
+* Score: 20/20
 
 ## Assignment 5
 
-Ruth, I think you have handled the technical issues here, I can follow the derivations now in the notebook version. So, I think the thing that is missing from all of this is some overarching narrative (what are you presenting and why? And when do you know you are done presenting?) Your writeup starts like a paper, with some initial motivation for what happens in these regions where quadrupole magnets are, but it doesn't say somethng like, "and this is what I present in this paper." I think if you work on that this week and carry that idea through the whole paper, it will be clear how to wrp it up and you will have a complete narrative to present. It might also suggest a title for the paper.
+Ruth, I think you have handled the technical issues here, I can follow the derivations now in the notebook version. So, I think the thing that is missing from all of this is some overarching narrative (what are you presenting and why? And when do you know you are done presenting?) Your writeup starts like a paper, with some initial motivation for what happens in these regions where quadrupole magnets are, but it doesn't say somethng like, "and this is what I present in this paper." I think if you work on that this week and carry that idea through the whole paper, it will be clear how to wrap it up and you will have a complete narrative to present. It might also suggest a title for the paper.
 
 * Score: 16/20
 
